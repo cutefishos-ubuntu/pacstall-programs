@@ -8,6 +8,7 @@ bat
 batsignal
 bemenu-git
 bitwarden-deb
+bitwig-studio-3-deb
 blang-git
 bpytop-git
 brave-browser-beta-deb
@@ -93,6 +94,7 @@ vivaldi-deb
 vscode-deb
 vscodium-deb
 walc-app
+waf-git
 warpinator-deb
 webapp-manager
 webapp-manager-deb

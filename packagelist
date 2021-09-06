@@ -3,7 +3,10 @@ alacritty
 android-studio
 appimagelauncher-deb
 ardour-git
+atom-editor-deb
 awesome-git
+aws-cli-v2-bin
+balena-etcher-electron-deb
 bashtop-git
 bat
 batsignal
@@ -18,12 +21,14 @@ clib
 cmatrix
 conky-manager
 couture
+dbeaver-ce-deb
 discord
 discord-canary
 dmenu
 dmenu-distrotube
 drawio-desktop-deb
 dropbox-deb
+duf-deb
 dunst
 emacs
 emacs-git
@@ -31,13 +36,16 @@ epson-inkjet-printer-stylus-nx110-series-deb
 exa
 exploitdb
 fastfetch-git
+fblog-deb
 fm6000
 freetube-deb
 git
+git-delta-deb
 gnome-shell-extension-installer
 gnome-tweaks
 google-chrome-deb
 graillon
+grive2
 gtkhash
 heroic-games-launcher-deb
 htop
@@ -57,8 +65,11 @@ lutris-deb
 lyrebird
 maitreya8-deb
 micro
+microsoft-edge-beta-deb
+microsoft-edge-dev-deb
 minecraft-launcher
 ms-teams-deb
+mullvad-vpn-deb
 mutt-wizard
 nano
 nemo
@@ -72,6 +83,7 @@ onefetch-bin
 opendoas-git
 opensnitch-deb
 opensnitch-ui-deb
+opera-deb
 pacget-git
 paper-icon-theme
 panagement
@@ -91,6 +103,7 @@ st-lukesmith
 stellarium
 surf-distrotube
 surf
+telegram-bin
 tor
 tuner
 tuner-git
@@ -100,6 +113,7 @@ uwufetch
 veracrypt-deb
 vim
 viper4linux
+virtualbox-deb
 vivaldi-deb
 vscode-deb
 vscodium-deb
@@ -111,4 +125,5 @@ webapp-manager-deb
 windscribe-cli-deb
 wine64
 yabridge
+youtube-dl-git
 zotero
